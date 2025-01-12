@@ -1,6 +1,9 @@
 {
     "name": "Wakgames.Editor",
-    "references": ["Wakgames.Runtime"],
+    "references": [
+        "Wakgames.Runtime",
+        "Unity.TextMeshPro"
+    ],
     "includePlatforms": ["Editor"],
     "excludePlatforms": []
 }

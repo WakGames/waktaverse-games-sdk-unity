@@ -9,7 +9,9 @@
     "email": "contact@waktaverse.games",
     "url": "https://waktaverse.games/"
   },
-  
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
   "homepage": "https://waktaverse.games/",
   "bugs": {
     "url": "https://github.com/WakGames/Waktaverse-Games-GameSdk-Unity/issues",
