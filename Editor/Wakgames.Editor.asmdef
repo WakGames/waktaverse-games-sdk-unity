@@ -1,0 +1,6 @@
+{
+    "name": "Wakgames.Editor",
+    "references": ["Wakgames.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": []
+}
